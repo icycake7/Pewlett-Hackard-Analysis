@@ -17,7 +17,7 @@
 First, we will exclude all employees that are not working for the company, and second, we will create a new table that only contains unique titles. By doing so, we will only show current employees with their latest job titles. Here is the new unique_titles table:<br>
 ![unique_titles](unique_titles.png)
   
-* All that is left, is to create a new table that will count and group   employees by their title. This can be seen in the following table:<br>
+* All that is left, is to create a new table that will count and group employees by their title. The result can be seen in the following table:<br>
 ![retiring_titles](retiring_titles.png)
 
 ###  <u>The Employees Eligible for the Mentorship Program:</u>
